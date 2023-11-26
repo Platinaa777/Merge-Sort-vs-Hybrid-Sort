@@ -131,11 +131,7 @@ int main() {
             //std::cout << "less or equal " << bounder << " insertion else merge sort\n";
             auto start = std::chrono::high_resolution_clock::now();
 
-            if (a.size() < bounder) {
-                insertionSort(a, a.size());
-            } else {
-                MergeSort(a, 0, a.size() - 1);
-            }
+            HybridSort(a, bounder);
 
             auto elapsed = std::chrono::high_resolution_clock::now() - start;
             long long millisec = std::chrono::duration_cast<std::chrono::microseconds>(elapsed).count();
