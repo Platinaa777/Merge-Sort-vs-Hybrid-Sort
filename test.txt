@@ -1,0 +1,540 @@
+random MERGE 204 500
+random HYBRID 172 500 with insertion sort 5
+random HYBRID 167 500 with insertion sort 10
+random HYBRID 167 500 with insertion sort 20
+random HYBRID 175 500 with insertion sort 50
+desc MERGE 174 500
+desc HYBRID 171 500 with insertion sort 5
+desc HYBRID 170 500 with insertion sort 10
+desc HYBRID 169 500 with insertion sort 20
+desc HYBRID 170 500 with insertion sort 50
+almost MERGE 184 500
+almost HYBRID 170 500 with insertion sort 5
+almost HYBRID 170 500 with insertion sort 10
+almost HYBRID 172 500 with insertion sort 20
+almost HYBRID 169 500 with insertion sort 50
+random MERGE 259 600
+random HYBRID 221 600 with insertion sort 5
+random HYBRID 219 600 with insertion sort 10
+random HYBRID 220 600 with insertion sort 20
+random HYBRID 226 600 with insertion sort 50
+desc MERGE 222 600
+desc HYBRID 219 600 with insertion sort 5
+desc HYBRID 219 600 with insertion sort 10
+desc HYBRID 219 600 with insertion sort 20
+desc HYBRID 222 600 with insertion sort 50
+almost MERGE 220 600
+almost HYBRID 219 600 with insertion sort 5
+almost HYBRID 218 600 with insertion sort 10
+almost HYBRID 221 600 with insertion sort 20
+almost HYBRID 233 600 with insertion sort 50
+random MERGE 300 700
+random HYBRID 262 700 with insertion sort 5
+random HYBRID 262 700 with insertion sort 10
+random HYBRID 258 700 with insertion sort 20
+random HYBRID 257 700 with insertion sort 50
+desc MERGE 259 700
+desc HYBRID 257 700 with insertion sort 5
+desc HYBRID 258 700 with insertion sort 10
+desc HYBRID 262 700 with insertion sort 20
+desc HYBRID 259 700 with insertion sort 50
+almost MERGE 261 700
+almost HYBRID 257 700 with insertion sort 5
+almost HYBRID 256 700 with insertion sort 10
+almost HYBRID 263 700 with insertion sort 20
+almost HYBRID 257 700 with insertion sort 50
+random MERGE 343 800
+random HYBRID 298 800 with insertion sort 5
+random HYBRID 293 800 with insertion sort 10
+random HYBRID 288 800 with insertion sort 20
+random HYBRID 290 800 with insertion sort 50
+desc MERGE 294 800
+desc HYBRID 292 800 with insertion sort 5
+desc HYBRID 290 800 with insertion sort 10
+desc HYBRID 294 800 with insertion sort 20
+desc HYBRID 290 800 with insertion sort 50
+almost MERGE 303 800
+almost HYBRID 296 800 with insertion sort 5
+almost HYBRID 289 800 with insertion sort 10
+almost HYBRID 297 800 with insertion sort 20
+almost HYBRID 290 800 with insertion sort 50
+random MERGE 383 900
+random HYBRID 328 900 with insertion sort 5
+random HYBRID 326 900 with insertion sort 10
+random HYBRID 328 900 with insertion sort 20
+random HYBRID 330 900 with insertion sort 50
+desc MERGE 325 900
+desc HYBRID 327 900 with insertion sort 5
+desc HYBRID 330 900 with insertion sort 10
+desc HYBRID 322 900 with insertion sort 20
+desc HYBRID 323 900 with insertion sort 50
+almost MERGE 327 900
+almost HYBRID 325 900 with insertion sort 5
+almost HYBRID 325 900 with insertion sort 10
+almost HYBRID 327 900 with insertion sort 20
+almost HYBRID 326 900 with insertion sort 50
+random MERGE 429 1000
+random HYBRID 412 1000 with insertion sort 5
+random HYBRID 350 1000 with insertion sort 10
+random HYBRID 362 1000 with insertion sort 20
+random HYBRID 358 1000 with insertion sort 50
+desc MERGE 354 1000
+desc HYBRID 349 1000 with insertion sort 5
+desc HYBRID 494 1000 with insertion sort 10
+desc HYBRID 548 1000 with insertion sort 20
+desc HYBRID 504 1000 with insertion sort 50
+almost MERGE 385 1000
+almost HYBRID 400 1000 with insertion sort 5
+almost HYBRID 373 1000 with insertion sort 10
+almost HYBRID 356 1000 with insertion sort 20
+almost HYBRID 351 1000 with insertion sort 50
+random MERGE 483 1100
+random HYBRID 407 1100 with insertion sort 5
+random HYBRID 402 1100 with insertion sort 10
+random HYBRID 407 1100 with insertion sort 20
+random HYBRID 398 1100 with insertion sort 50
+desc MERGE 450 1100
+desc HYBRID 409 1100 with insertion sort 5
+desc HYBRID 423 1100 with insertion sort 10
+desc HYBRID 401 1100 with insertion sort 20
+desc HYBRID 400 1100 with insertion sort 50
+almost MERGE 405 1100
+almost HYBRID 404 1100 with insertion sort 5
+almost HYBRID 401 1100 with insertion sort 10
+almost HYBRID 402 1100 with insertion sort 20
+almost HYBRID 438 1100 with insertion sort 50
+random MERGE 563 1200
+random HYBRID 451 1200 with insertion sort 5
+random HYBRID 483 1200 with insertion sort 10
+random HYBRID 476 1200 with insertion sort 20
+random HYBRID 474 1200 with insertion sort 50
+desc MERGE 803 1200
+desc HYBRID 582 1200 with insertion sort 5
+desc HYBRID 464 1200 with insertion sort 10
+desc HYBRID 452 1200 with insertion sort 20
+desc HYBRID 454 1200 with insertion sort 50
+almost MERGE 456 1200
+almost HYBRID 447 1200 with insertion sort 5
+almost HYBRID 532 1200 with insertion sort 10
+almost HYBRID 502 1200 with insertion sort 20
+almost HYBRID 462 1200 with insertion sort 50
+random MERGE 605 1300
+random HYBRID 509 1300 with insertion sort 5
+random HYBRID 501 1300 with insertion sort 10
+random HYBRID 499 1300 with insertion sort 20
+random HYBRID 505 1300 with insertion sort 50
+desc MERGE 500 1300
+desc HYBRID 503 1300 with insertion sort 5
+desc HYBRID 497 1300 with insertion sort 10
+desc HYBRID 507 1300 with insertion sort 20
+desc HYBRID 500 1300 with insertion sort 50
+almost MERGE 507 1300
+almost HYBRID 503 1300 with insertion sort 5
+almost HYBRID 501 1300 with insertion sort 10
+almost HYBRID 501 1300 with insertion sort 20
+almost HYBRID 501 1300 with insertion sort 50
+random MERGE 640 1400
+random HYBRID 543 1400 with insertion sort 5
+random HYBRID 539 1400 with insertion sort 10
+random HYBRID 542 1400 with insertion sort 20
+random HYBRID 541 1400 with insertion sort 50
+desc MERGE 548 1400
+desc HYBRID 551 1400 with insertion sort 5
+desc HYBRID 550 1400 with insertion sort 10
+desc HYBRID 546 1400 with insertion sort 20
+desc HYBRID 535 1400 with insertion sort 50
+almost MERGE 548 1400
+almost HYBRID 536 1400 with insertion sort 5
+almost HYBRID 540 1400 with insertion sort 10
+almost HYBRID 537 1400 with insertion sort 20
+almost HYBRID 564 1400 with insertion sort 50
+random MERGE 672 1500
+random HYBRID 577 1500 with insertion sort 5
+random HYBRID 576 1500 with insertion sort 10
+random HYBRID 575 1500 with insertion sort 20
+random HYBRID 581 1500 with insertion sort 50
+desc MERGE 577 1500
+desc HYBRID 576 1500 with insertion sort 5
+desc HYBRID 574 1500 with insertion sort 10
+desc HYBRID 574 1500 with insertion sort 20
+desc HYBRID 579 1500 with insertion sort 50
+almost MERGE 579 1500
+almost HYBRID 587 1500 with insertion sort 5
+almost HYBRID 574 1500 with insertion sort 10
+almost HYBRID 580 1500 with insertion sort 20
+almost HYBRID 576 1500 with insertion sort 50
+random MERGE 716 1600
+random HYBRID 614 1600 with insertion sort 5
+random HYBRID 605 1600 with insertion sort 10
+random HYBRID 613 1600 with insertion sort 20
+random HYBRID 619 1600 with insertion sort 50
+desc MERGE 618 1600
+desc HYBRID 603 1600 with insertion sort 5
+desc HYBRID 620 1600 with insertion sort 10
+desc HYBRID 604 1600 with insertion sort 20
+desc HYBRID 617 1600 with insertion sort 50
+almost MERGE 606 1600
+almost HYBRID 601 1600 with insertion sort 5
+almost HYBRID 598 1600 with insertion sort 10
+almost HYBRID 600 1600 with insertion sort 20
+almost HYBRID 612 1600 with insertion sort 50
+random MERGE 766 1700
+random HYBRID 632 1700 with insertion sort 5
+random HYBRID 632 1700 with insertion sort 10
+random HYBRID 633 1700 with insertion sort 20
+random HYBRID 641 1700 with insertion sort 50
+desc MERGE 654 1700
+desc HYBRID 644 1700 with insertion sort 5
+desc HYBRID 633 1700 with insertion sort 10
+desc HYBRID 635 1700 with insertion sort 20
+desc HYBRID 637 1700 with insertion sort 50
+almost MERGE 637 1700
+almost HYBRID 629 1700 with insertion sort 5
+almost HYBRID 638 1700 with insertion sort 10
+almost HYBRID 649 1700 with insertion sort 20
+almost HYBRID 670 1700 with insertion sort 50
+random MERGE 798 1800
+random HYBRID 668 1800 with insertion sort 5
+random HYBRID 728 1800 with insertion sort 10
+random HYBRID 667 1800 with insertion sort 20
+random HYBRID 666 1800 with insertion sort 50
+desc MERGE 676 1800
+desc HYBRID 674 1800 with insertion sort 5
+desc HYBRID 666 1800 with insertion sort 10
+desc HYBRID 679 1800 with insertion sort 20
+desc HYBRID 672 1800 with insertion sort 50
+almost MERGE 681 1800
+almost HYBRID 681 1800 with insertion sort 5
+almost HYBRID 673 1800 with insertion sort 10
+almost HYBRID 689 1800 with insertion sort 20
+almost HYBRID 664 1800 with insertion sort 50
+random MERGE 831 1900
+random HYBRID 704 1900 with insertion sort 5
+random HYBRID 693 1900 with insertion sort 10
+random HYBRID 692 1900 with insertion sort 20
+random HYBRID 707 1900 with insertion sort 50
+desc MERGE 696 1900
+desc HYBRID 729 1900 with insertion sort 5
+desc HYBRID 697 1900 with insertion sort 10
+desc HYBRID 694 1900 with insertion sort 20
+desc HYBRID 711 1900 with insertion sort 50
+almost MERGE 703 1900
+almost HYBRID 694 1900 with insertion sort 5
+almost HYBRID 700 1900 with insertion sort 10
+almost HYBRID 719 1900 with insertion sort 20
+almost HYBRID 702 1900 with insertion sort 50
+random MERGE 859 2000
+random HYBRID 721 2000 with insertion sort 5
+random HYBRID 717 2000 with insertion sort 10
+random HYBRID 726 2000 with insertion sort 20
+random HYBRID 716 2000 with insertion sort 50
+desc MERGE 729 2000
+desc HYBRID 719 2000 with insertion sort 5
+desc HYBRID 721 2000 with insertion sort 10
+desc HYBRID 715 2000 with insertion sort 20
+desc HYBRID 737 2000 with insertion sort 50
+almost MERGE 722 2000
+almost HYBRID 723 2000 with insertion sort 5
+almost HYBRID 722 2000 with insertion sort 10
+almost HYBRID 749 2000 with insertion sort 20
+almost HYBRID 716 2000 with insertion sort 50
+random MERGE 942 2100
+random HYBRID 774 2100 with insertion sort 5
+random HYBRID 778 2100 with insertion sort 10
+random HYBRID 773 2100 with insertion sort 20
+random HYBRID 770 2100 with insertion sort 50
+desc MERGE 794 2100
+desc HYBRID 781 2100 with insertion sort 5
+desc HYBRID 769 2100 with insertion sort 10
+desc HYBRID 763 2100 with insertion sort 20
+desc HYBRID 776 2100 with insertion sort 50
+almost MERGE 762 2100
+almost HYBRID 771 2100 with insertion sort 5
+almost HYBRID 770 2100 with insertion sort 10
+almost HYBRID 779 2100 with insertion sort 20
+almost HYBRID 777 2100 with insertion sort 50
+random MERGE 1009 2200
+random HYBRID 829 2200 with insertion sort 5
+random HYBRID 832 2200 with insertion sort 10
+random HYBRID 853 2200 with insertion sort 20
+random HYBRID 869 2200 with insertion sort 50
+desc MERGE 845 2200
+desc HYBRID 840 2200 with insertion sort 5
+desc HYBRID 842 2200 with insertion sort 10
+desc HYBRID 848 2200 with insertion sort 20
+desc HYBRID 827 2200 with insertion sort 50
+almost MERGE 828 2200
+almost HYBRID 865 2200 with insertion sort 5
+almost HYBRID 846 2200 with insertion sort 10
+almost HYBRID 804 2200 with insertion sort 20
+almost HYBRID 797 2200 with insertion sort 50
+random MERGE 999 2300
+random HYBRID 888 2300 with insertion sort 5
+random HYBRID 896 2300 with insertion sort 10
+random HYBRID 897 2300 with insertion sort 20
+random HYBRID 890 2300 with insertion sort 50
+desc MERGE 904 2300
+desc HYBRID 920 2300 with insertion sort 5
+desc HYBRID 890 2300 with insertion sort 10
+desc HYBRID 892 2300 with insertion sort 20
+desc HYBRID 887 2300 with insertion sort 50
+almost MERGE 910 2300
+almost HYBRID 883 2300 with insertion sort 5
+almost HYBRID 881 2300 with insertion sort 10
+almost HYBRID 899 2300 with insertion sort 20
+almost HYBRID 906 2300 with insertion sort 50
+random MERGE 1105 2400
+random HYBRID 935 2400 with insertion sort 5
+random HYBRID 938 2400 with insertion sort 10
+random HYBRID 953 2400 with insertion sort 20
+random HYBRID 931 2400 with insertion sort 50
+desc MERGE 937 2400
+desc HYBRID 954 2400 with insertion sort 5
+desc HYBRID 948 2400 with insertion sort 10
+desc HYBRID 981 2400 with insertion sort 20
+desc HYBRID 923 2400 with insertion sort 50
+almost MERGE 935 2400
+almost HYBRID 960 2400 with insertion sort 5
+almost HYBRID 933 2400 with insertion sort 10
+almost HYBRID 954 2400 with insertion sort 20
+almost HYBRID 919 2400 with insertion sort 50
+random MERGE 1182 2500
+random HYBRID 963 2500 with insertion sort 5
+random HYBRID 961 2500 with insertion sort 10
+random HYBRID 981 2500 with insertion sort 20
+random HYBRID 968 2500 with insertion sort 50
+desc MERGE 1010 2500
+desc HYBRID 971 2500 with insertion sort 5
+desc HYBRID 988 2500 with insertion sort 10
+desc HYBRID 983 2500 with insertion sort 20
+desc HYBRID 1007 2500 with insertion sort 50
+almost MERGE 993 2500
+almost HYBRID 996 2500 with insertion sort 5
+almost HYBRID 947 2500 with insertion sort 10
+almost HYBRID 922 2500 with insertion sort 20
+almost HYBRID 924 2500 with insertion sort 50
+random MERGE 1203 2600
+random HYBRID 1015 2600 with insertion sort 5
+random HYBRID 955 2600 with insertion sort 10
+random HYBRID 950 2600 with insertion sort 20
+random HYBRID 950 2600 with insertion sort 50
+desc MERGE 983 2600
+desc HYBRID 973 2600 with insertion sort 5
+desc HYBRID 1035 2600 with insertion sort 10
+desc HYBRID 1009 2600 with insertion sort 20
+desc HYBRID 1002 2600 with insertion sort 50
+almost MERGE 1017 2600
+almost HYBRID 1028 2600 with insertion sort 5
+almost HYBRID 982 2600 with insertion sort 10
+almost HYBRID 970 2600 with insertion sort 20
+almost HYBRID 1007 2600 with insertion sort 50
+random MERGE 1287 2700
+random HYBRID 989 2700 with insertion sort 5
+random HYBRID 1002 2700 with insertion sort 10
+random HYBRID 1042 2700 with insertion sort 20
+random HYBRID 1064 2700 with insertion sort 50
+desc MERGE 1006 2700
+desc HYBRID 1058 2700 with insertion sort 5
+desc HYBRID 1077 2700 with insertion sort 10
+desc HYBRID 996 2700 with insertion sort 20
+desc HYBRID 1059 2700 with insertion sort 50
+almost MERGE 1116 2700
+almost HYBRID 1118 2700 with insertion sort 5
+almost HYBRID 1074 2700 with insertion sort 10
+almost HYBRID 1083 2700 with insertion sort 20
+almost HYBRID 1124 2700 with insertion sort 50
+random MERGE 1341 2800
+random HYBRID 1100 2800 with insertion sort 5
+random HYBRID 1106 2800 with insertion sort 10
+random HYBRID 1090 2800 with insertion sort 20
+random HYBRID 1004 2800 with insertion sort 50
+desc MERGE 1092 2800
+desc HYBRID 1134 2800 with insertion sort 5
+desc HYBRID 1050 2800 with insertion sort 10
+desc HYBRID 1021 2800 with insertion sort 20
+desc HYBRID 1137 2800 with insertion sort 50
+almost MERGE 1112 2800
+almost HYBRID 1093 2800 with insertion sort 5
+almost HYBRID 1104 2800 with insertion sort 10
+almost HYBRID 1119 2800 with insertion sort 20
+almost HYBRID 1026 2800 with insertion sort 50
+random MERGE 1286 2900
+random HYBRID 1083 2900 with insertion sort 5
+random HYBRID 1089 2900 with insertion sort 10
+random HYBRID 1062 2900 with insertion sort 20
+random HYBRID 1063 2900 with insertion sort 50
+desc MERGE 1181 2900
+desc HYBRID 1125 2900 with insertion sort 5
+desc HYBRID 1139 2900 with insertion sort 10
+desc HYBRID 1181 2900 with insertion sort 20
+desc HYBRID 1153 2900 with insertion sort 50
+almost MERGE 1146 2900
+almost HYBRID 1152 2900 with insertion sort 5
+almost HYBRID 1085 2900 with insertion sort 10
+almost HYBRID 1076 2900 with insertion sort 20
+almost HYBRID 1056 2900 with insertion sort 50
+random MERGE 1316 3000
+random HYBRID 1094 3000 with insertion sort 5
+random HYBRID 1085 3000 with insertion sort 10
+random HYBRID 1107 3000 with insertion sort 20
+random HYBRID 1118 3000 with insertion sort 50
+desc MERGE 1124 3000
+desc HYBRID 1172 3000 with insertion sort 5
+desc HYBRID 1227 3000 with insertion sort 10
+desc HYBRID 1177 3000 with insertion sort 20
+desc HYBRID 1088 3000 with insertion sort 50
+almost MERGE 1146 3000
+almost HYBRID 1104 3000 with insertion sort 5
+almost HYBRID 1097 3000 with insertion sort 10
+almost HYBRID 1114 3000 with insertion sort 20
+almost HYBRID 1094 3000 with insertion sort 50
+random MERGE 1357 3100
+random HYBRID 1141 3100 with insertion sort 5
+random HYBRID 1190 3100 with insertion sort 10
+random HYBRID 1212 3100 with insertion sort 20
+random HYBRID 1213 3100 with insertion sort 50
+desc MERGE 1237 3100
+desc HYBRID 1215 3100 with insertion sort 5
+desc HYBRID 1195 3100 with insertion sort 10
+desc HYBRID 1180 3100 with insertion sort 20
+desc HYBRID 1111 3100 with insertion sort 50
+almost MERGE 1179 3100
+almost HYBRID 1159 3100 with insertion sort 5
+almost HYBRID 1160 3100 with insertion sort 10
+almost HYBRID 1118 3100 with insertion sort 20
+almost HYBRID 1228 3100 with insertion sort 50
+random MERGE 1495 3200
+random HYBRID 1240 3200 with insertion sort 5
+random HYBRID 1277 3200 with insertion sort 10
+random HYBRID 1225 3200 with insertion sort 20
+random HYBRID 1218 3200 with insertion sort 50
+desc MERGE 1260 3200
+desc HYBRID 1158 3200 with insertion sort 5
+desc HYBRID 1193 3200 with insertion sort 10
+desc HYBRID 1196 3200 with insertion sort 20
+desc HYBRID 1214 3200 with insertion sort 50
+almost MERGE 1150 3200
+almost HYBRID 1229 3200 with insertion sort 5
+almost HYBRID 1163 3200 with insertion sort 10
+almost HYBRID 1247 3200 with insertion sort 20
+almost HYBRID 1260 3200 with insertion sort 50
+random MERGE 1521 3300
+random HYBRID 1289 3300 with insertion sort 5
+random HYBRID 1289 3300 with insertion sort 10
+random HYBRID 1268 3300 with insertion sort 20
+random HYBRID 1274 3300 with insertion sort 50
+desc MERGE 1331 3300
+desc HYBRID 1271 3300 with insertion sort 5
+desc HYBRID 1262 3300 with insertion sort 10
+desc HYBRID 1285 3300 with insertion sort 20
+desc HYBRID 1273 3300 with insertion sort 50
+almost MERGE 1263 3300
+almost HYBRID 1294 3300 with insertion sort 5
+almost HYBRID 1265 3300 with insertion sort 10
+almost HYBRID 1253 3300 with insertion sort 20
+almost HYBRID 1339 3300 with insertion sort 50
+random MERGE 1574 3400
+random HYBRID 1294 3400 with insertion sort 5
+random HYBRID 1345 3400 with insertion sort 10
+random HYBRID 1318 3400 with insertion sort 20
+random HYBRID 1313 3400 with insertion sort 50
+desc MERGE 1338 3400
+desc HYBRID 1311 3400 with insertion sort 5
+desc HYBRID 1334 3400 with insertion sort 10
+desc HYBRID 1308 3400 with insertion sort 20
+desc HYBRID 1238 3400 with insertion sort 50
+almost MERGE 1315 3400
+almost HYBRID 1292 3400 with insertion sort 5
+almost HYBRID 1301 3400 with insertion sort 10
+almost HYBRID 1320 3400 with insertion sort 20
+almost HYBRID 1321 3400 with insertion sort 50
+random MERGE 1610 3500
+random HYBRID 1376 3500 with insertion sort 5
+random HYBRID 1338 3500 with insertion sort 10
+random HYBRID 1388 3500 with insertion sort 20
+random HYBRID 1367 3500 with insertion sort 50
+desc MERGE 1361 3500
+desc HYBRID 1351 3500 with insertion sort 5
+desc HYBRID 1392 3500 with insertion sort 10
+desc HYBRID 1355 3500 with insertion sort 20
+desc HYBRID 1337 3500 with insertion sort 50
+almost MERGE 1365 3500
+almost HYBRID 1364 3500 with insertion sort 5
+almost HYBRID 1362 3500 with insertion sort 10
+almost HYBRID 1328 3500 with insertion sort 20
+almost HYBRID 1350 3500 with insertion sort 50
+random MERGE 1670 3600
+random HYBRID 1403 3600 with insertion sort 5
+random HYBRID 1382 3600 with insertion sort 10
+random HYBRID 1379 3600 with insertion sort 20
+random HYBRID 1427 3600 with insertion sort 50
+desc MERGE 1429 3600
+desc HYBRID 1400 3600 with insertion sort 5
+desc HYBRID 1390 3600 with insertion sort 10
+desc HYBRID 1398 3600 with insertion sort 20
+desc HYBRID 1371 3600 with insertion sort 50
+almost MERGE 1403 3600
+almost HYBRID 1378 3600 with insertion sort 5
+almost HYBRID 1386 3600 with insertion sort 10
+almost HYBRID 1406 3600 with insertion sort 20
+almost HYBRID 1396 3600 with insertion sort 50
+random MERGE 1725 3700
+random HYBRID 1429 3700 with insertion sort 5
+random HYBRID 1414 3700 with insertion sort 10
+random HYBRID 1445 3700 with insertion sort 20
+random HYBRID 1413 3700 with insertion sort 50
+desc MERGE 1435 3700
+desc HYBRID 1451 3700 with insertion sort 5
+desc HYBRID 1406 3700 with insertion sort 10
+desc HYBRID 1423 3700 with insertion sort 20
+desc HYBRID 1438 3700 with insertion sort 50
+almost MERGE 1441 3700
+almost HYBRID 1448 3700 with insertion sort 5
+almost HYBRID 1415 3700 with insertion sort 10
+almost HYBRID 1418 3700 with insertion sort 20
+almost HYBRID 1403 3700 with insertion sort 50
+random MERGE 1697 3800
+random HYBRID 1473 3800 with insertion sort 5
+random HYBRID 1419 3800 with insertion sort 10
+random HYBRID 1457 3800 with insertion sort 20
+random HYBRID 1492 3800 with insertion sort 50
+desc MERGE 1351 3800
+desc HYBRID 1483 3800 with insertion sort 5
+desc HYBRID 1390 3800 with insertion sort 10
+desc HYBRID 1423 3800 with insertion sort 20
+desc HYBRID 1468 3800 with insertion sort 50
+almost MERGE 1336 3800
+almost HYBRID 1435 3800 with insertion sort 5
+almost HYBRID 1402 3800 with insertion sort 10
+almost HYBRID 1379 3800 with insertion sort 20
+almost HYBRID 1492 3800 with insertion sort 50
+random MERGE 1704 3900
+random HYBRID 1376 3900 with insertion sort 5
+random HYBRID 1494 3900 with insertion sort 10
+random HYBRID 1493 3900 with insertion sort 20
+random HYBRID 1403 3900 with insertion sort 50
+desc MERGE 1419 3900
+desc HYBRID 1401 3900 with insertion sort 5
+desc HYBRID 1467 3900 with insertion sort 10
+desc HYBRID 1406 3900 with insertion sort 20
+desc HYBRID 1399 3900 with insertion sort 50
+almost MERGE 1452 3900
+almost HYBRID 1401 3900 with insertion sort 5
+almost HYBRID 1496 3900 with insertion sort 10
+almost HYBRID 1471 3900 with insertion sort 20
+almost HYBRID 1448 3900 with insertion sort 50
+random MERGE 1798 4000
+random HYBRID 1428 4000 with insertion sort 5
+random HYBRID 1426 4000 with insertion sort 10
+random HYBRID 1456 4000 with insertion sort 20
+random HYBRID 1394 4000 with insertion sort 50
+desc MERGE 1468 4000
+desc HYBRID 1438 4000 with insertion sort 5
+desc HYBRID 1435 4000 with insertion sort 10
+desc HYBRID 1467 4000 with insertion sort 20
+desc HYBRID 1470 4000 with insertion sort 50
+almost MERGE 1522 4000
+almost HYBRID 1414 4000 with insertion sort 5
+almost HYBRID 1495 4000 with insertion sort 10
+almost HYBRID 1452 4000 with insertion sort 20
+almost HYBRID 1403 4000 with insertion sort 50
