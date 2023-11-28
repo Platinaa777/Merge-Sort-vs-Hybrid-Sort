@@ -1,3 +1,3 @@
 # Merge-Sort-vs-Hybrid-Sort
 
-В стадии разработки
+Merge sort vs Merge sort with insertion sort
