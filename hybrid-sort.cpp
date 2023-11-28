@@ -64,7 +64,7 @@ void HybridSort(std::vector<int>& vec, int limit, int left, int right) {
     if (left >= right) {
         return;
     }
-    if (vec.size() <= limit) {
+    if (right - left + 1 <= limit) {
         insertionSort(vec, left, right);
     } else {
         HybridSort(vec, limit, left, (left + right) / 2);
@@ -116,7 +116,7 @@ std::vector<int> GetAlmostSortedVector(int n) {
     return vec;
 }
 
-std::ofstream file_with_tests("test1.txt");
+std::ofstream file_with_tests("test2.txt");
 
 void DoBenchmark(std::vector<int>& vec, int i, std::vector<int>& limits, std::string str) {
     auto start = std::chrono::high_resolution_clock::now();
